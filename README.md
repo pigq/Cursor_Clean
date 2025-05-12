@@ -14,4 +14,5 @@ Patch `out/main.js` to force diffferent machine ids.
 3. If it shows all green and no red, youre done.
 4. Next time when you need a new machine id or when youve just updated cursor, run it again.
 
+配合无限邮进行注册使用
 _Early test. Feel free to try it out :3_
